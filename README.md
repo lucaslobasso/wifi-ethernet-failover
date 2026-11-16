@@ -1,6 +1,7 @@
 # wifi-ethernet-failover
 
 [![CI](https://github.com/lucaslobasso/wifi-ethernet-failover/actions/workflows/ci.yml/badge.svg)](https://github.com/lucaslobasso/wifi-ethernet-failover/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/lucaslobasso/wifi-ethernet-failover)](https://github.com/lucaslobasso/wifi-ethernet-failover/releases)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011-lightgrey.svg)](#requirements)
 
